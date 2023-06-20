@@ -34,7 +34,7 @@ npm start
 
 ## Live Demo
 
-You can check out the live version of this portfolio at ...
+You can check out the live version of this portfolio at https://cyberbios.github.io/Portfolio/
 
 ## Contributing
 
