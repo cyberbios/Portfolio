@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c317f668.css",
-    "main.js": "/Portfolio/static/js/main.b9bf0000.js",
+    "main.css": "/Portfolio/static/css/main.ce98cc3f.css",
+    "main.js": "/Portfolio/static/js/main.f735ce5b.js",
     "static/media/workWeather.png": "/Portfolio/static/media/workWeather.6c663618829c962d6446.png",
     "static/media/workAround.png": "/Portfolio/static/media/workAround.d9f5503c0add6a5a80cc.png",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -13,12 +13,10 @@
     "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/LevLogo.png": "/Portfolio/static/media/LevLogo.6017698dd6d5e9780291.png",
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/Portfolio/index.html",
-    "main.c317f668.css.map": "/Portfolio/static/css/main.c317f668.css.map",
-    "main.b9bf0000.js.map": "/Portfolio/static/js/main.b9bf0000.js.map"
+    "index.html": "/Portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.c317f668.css",
-    "static/js/main.b9bf0000.js"
+    "static/css/main.ce98cc3f.css",
+    "static/js/main.f735ce5b.js"
   ]
 }
