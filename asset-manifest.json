@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.ce98cc3f.css",
-    "main.js": "/Portfolio/static/js/main.f735ce5b.js",
+    "main.js": "/Portfolio/static/js/main.48f86350.js",
     "static/media/workWeather.png": "/Portfolio/static/media/workWeather.6c663618829c962d6446.png",
     "static/media/workAround.png": "/Portfolio/static/media/workAround.d9f5503c0add6a5a80cc.png",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -17,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.ce98cc3f.css",
-    "static/js/main.f735ce5b.js"
+    "static/js/main.48f86350.js"
   ]
 }
